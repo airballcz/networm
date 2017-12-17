@@ -1,3 +1,3 @@
 # networm
 Net Worm
-program with Python and is dev branch.
+program with Python and is master branch.
